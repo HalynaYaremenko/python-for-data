@@ -49,3 +49,5 @@ movies_df = pd.read_csv('data/movies_metadata.csv')
 # print(movies_df.to_string())
 
 print(pd.options.display.max_rows)
+
+
